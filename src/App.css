@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid lightskyblue;
+  border: 3px solid darkolivegreen;
   padding: 10px;
 }
 
@@ -16,6 +16,10 @@ h1 {
     color: maroon;
 }
 
+h2 {
+    color:crimson;
+}
+
 h3 { 
   color: slategray;
 }
@@ -23,4 +27,8 @@ h3 {
 body  {
   padding: 10px;
   background-color: white;
+}
+
+footer  {
+  color:darkviolet;
 }
